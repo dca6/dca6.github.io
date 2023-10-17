@@ -1,5 +1,5 @@
 body {
-    background-color: lightgreen;
+    background-color: darkgray;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -10,7 +10,7 @@ h1 {
 .assign {
     margin: 10px;
     padding: 10px;
-    background-color: gray;
+    background-color: silver;
     display: flex; 
 }
 
