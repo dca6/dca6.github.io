@@ -17,4 +17,11 @@ h1 {
 .assign img {
     width: 200px;
     padding: 10px;
+    border: 2px solid black;
+}
+a {
+    color: black;
+}
+a:hover {
+    color:blue
 }
