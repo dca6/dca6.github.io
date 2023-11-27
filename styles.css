@@ -23,10 +23,12 @@ h1 {
 
 .assign img {
     width: 200px;
+    height: 200px;
     margin: 10px;
 }
 .assign img:hover {
     width: 200px;
+    height: 200px;
     margin: 10px;
 }
 a {
