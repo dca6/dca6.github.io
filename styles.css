@@ -25,6 +25,10 @@ h1 {
     width: 200px;
     margin: 10px;
 }
+.assign img:hover {
+    width: 200px;
+    margin: 10px;
+}
 a {
     color: black;
     text-decoration: none;
